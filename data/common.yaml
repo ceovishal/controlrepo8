@@ -1,0 +1,3 @@
+---
+puppet_enterprise::ssl_protocols:
+- 'TLSv1.2'
