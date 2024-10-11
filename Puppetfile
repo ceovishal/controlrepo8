@@ -36,9 +36,9 @@ mod 'puppetlabs-sce_windows',
   git:   'git@github.com:ceovishal/puppetlabs-sce_windows.git',
   branch: 'main'
   
-mod 'puppet-lint',
-  git: 'git@github.com:ceovishal/puppet-lint.git',
-  branch: 'main'
+#  mod 'puppet-lint',
+#  git: 'git@github.com:ceovishal/puppet-lint.git',
+#  branch: 'main'
 
 #mod 'puppetlabs-cem_linux',
 #  git:   'git@github.com:ceovishal/puppetlabs-cem_linux.git',
