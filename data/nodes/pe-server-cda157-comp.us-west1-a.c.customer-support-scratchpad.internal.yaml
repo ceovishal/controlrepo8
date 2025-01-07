@@ -1,2 +1,0 @@
----
-puppet_enterprise::puppetserver_ram_per_jruby: 1024
