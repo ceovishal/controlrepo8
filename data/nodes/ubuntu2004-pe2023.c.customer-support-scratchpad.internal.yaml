@@ -1,1 +1,5 @@
-
+---
+puppet_enterprise::master::code_management::git_settings:
+repositories:
+  - remote: "git@github.com:ceovishal/puppetlabs-sce_linux.git"
+    private-key: "/etc/puppetlabs/puppetserver/ssh/id_rsa"
