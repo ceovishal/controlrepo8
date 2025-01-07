@@ -1,6 +1,12 @@
 ---
-puppet_enterprise::master::code_management::git_settings:
-  private_key: /etc/puppetlabs/puppetserver/ssh/id-control_repo.ed25519
-repositories:
-  - remote: "git@github.com:ceovishal/puppetlabs-sce_linux.git"
-    private-key: "/etc/puppetlabs/puppetserver/ssh/id_rsa"
+#puppet_enterprise::master::code_management::git_settings:
+#  private_key: /etc/puppetlabs/puppetserver/ssh/id-control_repo.ed25519
+#  repositories:
+#    - remote: "git@github.com:ceovishal/puppetlabs-sce_linux.git"
+#      private-key: "/etc/puppetlabs/puppetserver/ssh/id_rsa"
+
+puppet_enterprise::master::code_manager::git_settings:
+  private-key: /etc/puppetlabs/puppetserver/ssh/id-control_repo.ed25519
+  repositories:
+    - remote: "git@github.com:ceovishal/puppetlabs-sce_linux.git"
+      private-key: "/etc/puppetlabs/puppetserver/ssh/id_rsa"
