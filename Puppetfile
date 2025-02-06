@@ -10,9 +10,9 @@ mod 'puppetlabs-accounts', '8.2.0'
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 
-mod 'apache',
-  git:    'https://github.com/puppetlabs/puppetlabs-apache',
-  commit: '1b6f89afdde0df7f9433a163d5c4b5328eac5779'
+#mod 'apache',
+#  git:    'https://github.com/puppetlabs/puppetlabs-apache',
+#  commit: '1b6f89afdde0df7f9433a163d5c4b5328eac5779'
 
 #mod 'puppetlabs-sqlserver',
 #  git:  'https://github.com/puppetlabs/puppetlabs-sqlserver',
@@ -23,13 +23,13 @@ mod 'apache',
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  branch: 'docs_experiment'
 
-mod 'mkcustomfact',
-  git:     'git@github.com:ceovishal/mkcustomfact.git',
-  branch:  'production'
+#mod 'mkcustomfact',
+#  git:     'git@github.com:ceovishal/mkcustomfact.git',
+#  branch:  'production'
 
-mod 'puppetlabs-sce_linux',
-  git:   'git@github.com:ceovishal/puppetlabs-sce_linux.git',
-  branch: 'main' 
+#mod 'puppetlabs-sce_linux',
+#  git:   'git@github.com:ceovishal/puppetlabs-sce_linux.git',
+#  branch: 'main' 
 #  :tag => 'v1.5.0'
 
 mod 'puppetlabs-sce_windows',
@@ -58,7 +58,7 @@ mod 'puppetlabs-cd4pe', '3.3.0'
 
 mod 'dylanratcliffe-facter_cache', '1.3.1'
 mod 'puppetlabs-puppet_authorization', '1.0.0'
-mod 'puppetlabs-wsus_client', '6.1.0'
+#mod 'puppetlabs-wsus_client', '6.1.0'
 mod 'puppetlabs-peadm', '3.18.1'
 mod 'puppetlabs-stdlib', '8.6.0'
 mod 'puppetlabs-concat', '8.0.1'
@@ -73,7 +73,7 @@ mod 'puppet-logrotate', '6.1.0'
 mod 'puppet-selinux', '3.4.1'
 mod 'puppet-systemd', '4.2.0'
 mod 'puppet-yum', '7.1.0'
-mod 'stm-resolv_conf', '3.0.0'
+#mod 'stm-resolv_conf', '3.0.0'
 mod 'benjaminrobertson-find_legacy_facts', '0.2.0'
 #mod 'puppetlabs-pe_databases', '2.2.0'
 mod 'puppet-format', '1.1.1'
