@@ -27,14 +27,14 @@ mod 'mkcustomfact',
   git:     'git@github.com:ceovishal/mkcustomfact.git',
   branch:  'production'
 
-mod 'puppetlabs-sce_linux',
-  git:   'git@github.com:ceovishal/puppetlabs-sce_linux.git',
-  branch: 'main' 
+#mod 'puppetlabs-sce_linux',
+#  git:   'git@github.com:ceovishal/puppetlabs-sce_linux.git',
+#  branch: 'main' 
 #  :tag => 'v1.5.0'
 
-mod 'puppetlabs-sce_windows',
-  git:   'git@github.com:ceovishal/puppetlabs-sce_windows.git',
-  branch: 'main'
+#mod 'puppetlabs-sce_windows',
+#  git:   'git@github.com:ceovishal/puppetlabs-sce_windows.git',
+#  branch: 'main'
   
 #  mod 'puppet-lint',
 #  git: 'git@github.com:ceovishal/puppet-lint.git',
@@ -76,8 +76,8 @@ mod 'puppet-yum', '7.1.0'
 mod 'stm-resolv_conf', '3.0.0'
 mod 'benjaminrobertson-find_legacy_facts', '0.2.0'
 #mod 'puppetlabs-pe_databases', '2.2.0'
-mod 'puppet-format', '1.1.1'
-mod 'puppetlabs-firewall', '8.0.1'
+#mod 'puppet-format', '1.1.1'
+#mod 'puppetlabs-firewall', '8.0.1'
 #mod 'puppetlabs-firewall', '8.0.0'
 #mod 'puppetlabs-pe_databases', '4.0.0'
 #mod 'saz-resolv_conf', '5.1.0'  
