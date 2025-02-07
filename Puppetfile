@@ -81,4 +81,5 @@ mod 'puppetlabs-firewall', '8.0.1'
 #mod 'puppetlabs-firewall', '8.0.0'
 #mod 'puppetlabs-pe_databases', '4.0.0'
 #mod 'saz-resolv_conf', '5.1.0'  
+mod 'puppetlabs-support_tasks', '5.1.0'
 
