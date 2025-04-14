@@ -78,11 +78,9 @@ mod 'benjaminrobertson-find_legacy_facts', '0.2.0'
 #mod 'puppetlabs-pe_databases', '2.2.0'
 mod 'puppet-format', '1.1.1'
 mod 'puppetlabs-firewall', '8.0.1'
-
 mod 'puppetlabs-facts', '1.4.0'
 mod 'puppetlabs-support_tasks', '4.1.0'
-mod 'puppetlabs-bash_task_helper, '2.0.0'
-
+mod 'puppetlabs-bash_task_helper', '2.0.0'
 
 
 #mod 'puppetlabs-firewall', '8.0.0'
