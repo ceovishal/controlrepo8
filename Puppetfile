@@ -88,7 +88,7 @@ mod 'puppetlabs-bash_task_helper', '2.0.0'
 #mod 'saz-resolv_conf', '5.1.0'  
 #mod 'puppetlabs-support_tasks', '5.1.0'
 #mod 'puppetlabs-motd', '7.2.0'
-mod 'puppetlabs-sce_linux', '2.3.2'
+#mod 'puppetlabs-sce_linux', '2.3.2'
 
 
 
