@@ -15,7 +15,7 @@ mod 'apache',
   commit: '1b6f89afdde0df7f9433a163d5c4b5328eac5779'
 
 mod 'puppet-subnetwork',
-  :git => 'git@github.com:satyamgupta722/puppet-subnetwork.git'
+  :git => 'git@github.com:satyamgupta722/puppet-subnetwork.git',
   :branch => 'main'
 
 #mod 'puppetlabs-sqlserver',
