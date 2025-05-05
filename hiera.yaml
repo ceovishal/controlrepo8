@@ -1,8 +1,8 @@
 ---
-version: 3
+version: 5
 #
-#defaults:
-#  datadir: "data"
+defaults:
+  datadir: "data"
 
 hierarchy:
   - name: "Yaml backend"
