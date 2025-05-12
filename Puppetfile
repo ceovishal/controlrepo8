@@ -48,6 +48,10 @@ mod 'puppetlabs-sce_windows',
 #  git:   'git@github.com:ceovishal/puppetlabs-cem_linux.git',
 #  branch: 'main'
 
+mod 'puppetlabs-iis',
+  git: 'git@github.com:ceovishal/puppetlabs-iis.git',
+  commit: 'fb1869747207502063e7bf07d5c1ac42f1c59f71'
+
 #mod 'puppetlabs-cem_windows',
 #  git:   'git@github.com:ceovishal/puppetlabs-cem_windows.git',
 #  branch: 'main'
