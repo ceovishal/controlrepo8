@@ -30,11 +30,11 @@ node default {
   #   class { 'my_class': }
 }
 
-node 'aix72-2-pix.delivery.puppetlabs.net' {
-  file { '/opt/puppetlabs/puppet/cache/facts.d':
-    ensure => directory,
-    mode   => '0770',
-    owner  => 'root',
-    group  => '0',
-  }
-}
+#node 'aix72-2-pix.delivery.puppetlabs.net' {
+#  file { '/opt/puppetlabs/puppet/cache/facts.d':
+#    ensure => directory,
+#    mode   => '0770',
+#    owner  => 'root',
+#    group  => '0',
+#  }
+#}
