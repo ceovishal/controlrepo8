@@ -1,1 +1,2 @@
-# task content goes here
+
+puppet resource package 
