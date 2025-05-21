@@ -1,10 +1,4 @@
 {
-  "description": "Run 'puppet resource package' on a Windows node",
-  "input_method": "powershell",
-  "parameters": {
-    "package_name": {
-      "description": "The name of the package to inspect",
-      "type": "String"
-    }
-  }
+  "description": "Run 'puppet resource package' to manage all packages on the node",
+  "input_method": "powershell"
 }
