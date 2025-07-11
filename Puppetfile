@@ -5,6 +5,7 @@ mod 'puppetlabs-accounts', '8.2.0'
 # Versions should be updated to be the latest at the time you start
 #mod 'puppetlabs/inifile', '5.0.1'
 #mod 'puppetlabs/stdlib',  '7.0.1'
+#mod 'puppetlabs-stdlib', '8.6.0'
 #mod 'puppetlabs/concat',  '7.0.1'
 
 # Modules from Git
@@ -68,7 +69,7 @@ mod 'dylanratcliffe-facter_cache', '1.3.1'
 mod 'puppetlabs-puppet_authorization', '1.0.0'
 mod 'puppetlabs-wsus_client', '6.1.0'
 mod 'puppetlabs-peadm', '3.18.1'
-mod 'puppetlabs-stdlib', '8.6.0'
+mod 'puppetlabs-stdlib', '9.7.0'
 mod 'puppetlabs-concat', '8.0.1'
 mod 'puppetlabs-puppet_agent', '4.24.0'
 mod 'puppetlabs-inifile', '6.1.0'
