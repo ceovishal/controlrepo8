@@ -99,6 +99,7 @@ mod 'puppetlabs-comply', '3.4.0'
 #mod 'puppetlabs-support_tasks', '5.1.0'
 #mod 'puppetlabs-motd', '7.2.0'
 #mod 'puppetlabs-sce_linux', '2.3.2'
+mod 'puppetlabs-powershell', '6.0.2'
 
 
 
