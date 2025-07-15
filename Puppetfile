@@ -91,7 +91,8 @@ mod 'puppetlabs-facts', '1.4.0'
 mod 'puppetlabs-support_tasks', '4.1.0'
 mod 'puppetlabs-bash_task_helper', '2.0.0'
 mod 'puppetlabs-comply', '3.4.0'
-mod 'puppetlabs-chocolatey', '8.0.1'
+mod 'puppetlabs-chocolatey', '8.0.2'
+#mod 'puppetlabs-chocolatey', '8.0.1'
 
 
 #mod 'puppetlabs-firewall', '8.0.0'
