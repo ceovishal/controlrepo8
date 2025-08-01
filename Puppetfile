@@ -72,7 +72,7 @@ mod 'puppetlabs-cd4pe', '3.3.0'
 
 mod 'dylanratcliffe-facter_cache', '1.3.1'
 mod 'puppetlabs-puppet_authorization', '1.0.0'
-mod 'puppetlabs-wsus_client', '6.1.0'
+#mod 'puppetlabs-wsus_client', '6.1.0'
 mod 'puppetlabs-peadm', '3.18.1'
 mod 'puppetlabs-stdlib', '9.7.0'
 mod 'puppetlabs-concat', '8.0.1'
