@@ -100,6 +100,7 @@ mod 'puppetlabs-bash_task_helper', '2.0.0'
 mod 'puppetlabs-comply', '3.4.0'
 mod 'puppetlabs-chocolatey', '8.0.2'
 #mod 'puppetlabs-chocolatey', '8.0.1'
+mod 'puppetlabs-registry', '5.0.3'
 
 
 #mod 'puppetlabs-firewall', '8.0.0'
