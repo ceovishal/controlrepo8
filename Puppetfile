@@ -45,9 +45,9 @@ mod 'puppetlabs-sce_windows',
   git:   'git@github.com:ceovishal/puppetlabs-sce_windows.git',
   branch: 'main'
 
-mod 'puppetlabs-wsus_client',
-  git: 'git@github.com:puppetlabs/puppetlabs-wsus_client.git',
-  branch: 'MODULES-11590'
+#mod 'puppetlabs-wsus_client',
+#  git: 'git@github.com:puppetlabs/puppetlabs-wsus_client.git',
+#  branch: 'MODULES-11590'
 #commit: '75935be362cd82fc0123449040cba549bd1b80a8' 
   
   
