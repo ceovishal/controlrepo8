@@ -16,8 +16,8 @@ mod 'puppetlabs-accounts', '8.2.0'
 #  commit: '1b6f89afdde0df7f9433a163d5c4b5328eac5779'
 
 mod 'apache',
-    :git => 'git@github.com:ceovishal/puppetlabs-apache.git',
-    :tag => 'v1.0.0'
+    :git => 'git@github.com:puppetlabs/puppetlabs-apache.git',
+    :tag => 'v12.1.0'
 
 mod 'puppet-subnetwork',
   :git => 'git@github.com:satyamgupta722/puppet-subnetwork.git',
