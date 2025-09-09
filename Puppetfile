@@ -114,6 +114,6 @@ mod 'puppetlabs-registry', '5.0.3'
 #mod 'puppetlabs-motd', '7.2.0'
 #mod 'puppetlabs-sce_linux', '2.3.2'
 mod 'puppetlabs-powershell', '6.0.2'
-
+mod 'puppet-archive', '8.1.0'
 
 
