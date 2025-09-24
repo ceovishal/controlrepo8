@@ -37,8 +37,8 @@ mod 'mkcustomfact',
   branch:  'production'
 
 mod 'puppetlabs-sce_linux',
-  git: 'git@github.com:ceovishal/puppetlabs-sce_linux.git',
-  tag: 'v1.9.1'
+    :git => 'git@github.com:ceovishal/puppetlabs-sce_linux.git',
+    :tag => 'v1.9.1'
 
 mod 'puppetlabs-sce_windows',
   git:   'git@github.com:ceovishal/puppetlabs-sce_windows.git',
