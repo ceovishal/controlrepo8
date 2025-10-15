@@ -67,8 +67,17 @@ mod 'puppetlabs-iis',
 #  git:   'git@github.com:ceovishal/puppetlabs-cem_windows.git',
 #  branch: 'main'
 
-#mod 'puppetlabs/sce_linux', '2.0.0'
+# modules added for cd4pe 
+
 mod 'puppetlabs-cd4pe', '3.3.0'
+mod 'puppetlabs-stdlib', '9.7.0'
+mod 'puppetlabs-puppet_authorization', '1.0.0'
+mod 'puppetlabs-docker', '9.1.0'
+mod 'puppetlabs-hocon', '1.1.0'
+
+
+#mod 'puppetlabs/sce_linux', '2.0.0'
+
 
 #mod 'puppetlabs/sce_linux', '1.5.0'
 #mod 'puppetlabs/cem_linux', '1.5.0'
@@ -76,10 +85,9 @@ mod 'puppetlabs-cd4pe', '3.3.0'
 #mod 'puppetlabs-sce_linux', '2.1.0'
 
 mod 'dylanratcliffe-facter_cache', '1.3.1'
-mod 'puppetlabs-puppet_authorization', '1.0.0'
+
 #mod 'puppetlabs-wsus_client', '6.1.0'
 mod 'puppetlabs-peadm', '3.18.1'
-mod 'puppetlabs-stdlib', '9.7.0'
 mod 'puppetlabs-concat', '8.0.1'
 mod 'puppetlabs-puppet_agent', '4.24.0'
 mod 'puppetlabs-inifile', '6.1.0'
