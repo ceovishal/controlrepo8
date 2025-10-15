@@ -67,13 +67,16 @@ mod 'puppetlabs-iis',
 #  git:   'git@github.com:ceovishal/puppetlabs-cem_windows.git',
 #  branch: 'main'
 
-# modules added for cd4pe 
+# modules added for cd4pe setup
 
 mod 'puppetlabs-cd4pe', '3.3.0'
 mod 'puppetlabs-stdlib', '9.7.0'
 mod 'puppetlabs-puppet_authorization', '1.0.0'
 mod 'puppetlabs-docker', '9.1.0'
 mod 'puppetlabs-hocon', '1.1.0'
+mod 'puppetlabs-cd4pe_jobs', '1.7.2'
+
+# end for cd4pe setup
 
 
 #mod 'puppetlabs/sce_linux', '2.0.0'
