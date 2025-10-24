@@ -76,6 +76,8 @@ mod 'puppetlabs-docker', '9.1.0'
 mod 'puppetlabs-hocon', '1.1.0'
 mod 'puppetlabs-cd4pe_jobs', '1.7.2'
 
+mod 'puppetlabs-ca_extend', '3.5.0'
+
 # end for cd4pe setup
 
 
